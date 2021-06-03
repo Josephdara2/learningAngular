@@ -1,4 +1,4 @@
 Trying to learn Git/Github while learning Angular.
 
-frontEnd Newbie
+Self-taught frontEnd Newbie
 for now.
